@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleados>
+    <empleado id="E041" nivel="senior">
+        <nombre>Ana López</nombre>
+        <cargo>Desarrollador</cargo>
+        <departamento>Tecnología</departamento>
+        <fechaContratacion>2019-05-20</fechaContratacion>
+        <telefono>+34 123 456 789</telefono>
+    </empleado>
+    <empleado id="E032" nivel="junior">
+        <nombre>Roberto García</nombre>
+        <cargo>Analista</cargo>
+        <departamento>Consultoría</departamento>
+        <fechaContratacion>2021-03-15</fechaContratacion>
+    </empleado>
+    <empleado id="E087" nivel="senior">
+        <nombre>Lucía Sánchez</nombre>
+        <cargo>Gerente de Proyecto</cargo>
+        <departamento>Gestión</departamento>
+        <fechaContratacion>2017-08-01</fechaContratacion>
+        <telefono>+34 987 654 321</telefono>
+    </empleado>
+    <empleado id="E037" nivel="junior">
+        <nombre>Marcos Fernández</nombre>
+        <cargo>Desarrollador</cargo>
+        <departamento>Tecnología</departamento>
+        <fechaContratacion>2022-01-10</fechaContratacion>
+    </empleado>
+    <empleado id="E098" nivel="senior">
+        <nombre>Elena Martínez</nombre>
+        <cargo>Arquitecto de Software</cargo>
+        <departamento>Innovación</departamento>
+        <fechaContratacion>2015-04-22</fechaContratacion>
+    </empleado>
+</empleados>
